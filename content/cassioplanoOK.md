@@ -1,6 +1,6 @@
 ---
 title: Plano de Trabalho para o CCT
-date: 2024-04-01
+date: 2024-04-19
 draft: false
 ---
 
