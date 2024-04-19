@@ -203,7 +203,7 @@ e profundidade de acordo com normas de segurança,
 a ventilação das paredes devem ficar perto do teto,
 a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 
-> _Vou me empenhar em aprovar um projeto institucional para o CCT ter um depósito de resíduos químicos seguro e funcional_.
+> _Vou me empenhar em aprovar um projeto institucional que leve a um depósito de resíduos químicos seguro e funcional_.
 
 
 
