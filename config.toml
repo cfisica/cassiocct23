@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+
+languageCode = 'en-us'
+
+title = 'Cássio 23'
+
+theme = "axile-hugo"
+
+
