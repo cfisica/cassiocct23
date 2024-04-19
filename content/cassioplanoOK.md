@@ -113,7 +113,7 @@ Naturalmente, os Professores e Técnicos, de maneira geral, estão com computado
 
 Os valores para se comprar novos computadores para todos são elevados. Na maioria das vezes os servidores usam os PCs para digitar textos e ter acesso à internet. Podemos, então, reformar os computadores antigos, trocando os HDs por SSDs, e adicionando velocidade aos nossos PCs: Algo em torno de R$ 30.000,00 – o que vai gerar uma economia de R$ 450.000,00!
 
-> _Este Plano de Trabalho estimula dar o melhor destino a cada centavo investido no CCT_.
+> _Este plano de trabalho estimula dar o melhor destino a cada centavo investido no CCT_.
 
 
 
@@ -208,7 +208,7 @@ e profundidade de acordo com normas de segurança,
 a ventilação das paredes devem ficar perto do teto,
 a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 
-> Vou me empenhar em aprovar um projeto institucional para o CCT ter um depósito de resíduos químicos seguro e funcional.
+> _Vou me empenhar em aprovar um projeto institucional para o CCT ter um depósito de resíduos químicos seguro e funcional_.
 
 
 
@@ -265,7 +265,7 @@ de que o Centro necessita para o exercício de 2025
 foram incluídos no sistema PGC (Planejamento e Gerenciamento de Contratações).
 Isso inclui a aquisição de projetores para as salas de aula do Bloco 3, entre outros.
 
-> _Faz parte deste Plano de Trabalho planejar e acompanhar cada centavo investido no CCT_.
+> _Faz parte deste plano de trabalho planejar e acompanhar cada centavo investido no CCT_.
 
 
 
