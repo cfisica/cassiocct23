@@ -45,9 +45,6 @@ Diretor Pro Tempore, com indicação ratificada pelo Conselho, em votação no d
 
 
 
-
-
-
 # NATUREZA DOS PROBLEMAS E MÉTODO PARA RESOLVÊ-LOS
 
 O CCT é composto pelos seguintes departamentos: 
@@ -105,7 +102,7 @@ Vamos trabalhar para levar a proposta de modernização dos laboratórios do DCC
 Em contra partida, poderemos reformar os computadores antigos, trocando os HDs por SSDs,
 e liberando os computadores reformados para as Salas de Estudos dos Alunos. 
 
-> _Faz parte deste plano de trabalho oferecer melhores condições para os Discentes do Centro desenvolverem suas atividades de aprendizagem_.
+> _Faz parte deste plano de trabalho oferecer melhores condições para os discentes do Centro desenvolverem suas atividades de aprendizagem_.
 
 Nós possuímos mão de obra qualificada e disposta para realizar a reforma: Os Técnicos do DEE. O que faltam para eles são as peças de hardware. Por exemplo, uma Unidade de Estado Sólido (SSD)  capaz de armazenar 512GB custa por volta de R$ 250,00. Recursos próprios do CCT podem ser utilizados para a aquisição das 30 peças – R$ 7.500,00. Nesse sentido, o DFD nº 226/2024 foi cadastrado.
 
@@ -138,7 +135,6 @@ Os problemas envolvendo a falta de gabinetes são listados na tabela abaixo.
 Observem a planta baixa do Bloco 5. Em amarelo, o comprimento dessa faixa é de cerca de 25 metros. Projetando gabinetes com 2,5 metros de largura, há possibilidade de 20 gabinetes. Em laranja, há mais 16 espaços – vale lembrar que uma dessas salas será destinada ao Hack da internet. Então, no total, são **35 gabinetes** com capacidade para acomodar **70 servidores**.
 
 
-
 ![Planta baixa do Bloco 5.](/img/BLOCO5.jpg)
 
 
@@ -158,7 +154,7 @@ A próxima tabela mostra uma proposta preliminar para a distribuição dos novos
 Alguns técnicos preferem ficar nos laboratórios.  Já outros desejam ter um local adicional de apoio. 
 Esta demanda poderá ser resolvida, pois, pelas contas, os 04 gabinetes livres podem ser disponibilizados para os técnicos. 
 
-> _Faz parte deste plano de trabalho oferecer melhores condições para os Técnicos do Centro exercerem suas atividades profissionais_.
+> _Faz parte deste plano de trabalho oferecer melhores condições para os técnicos do Centro exercerem suas atividades profissionais_.
 
 A distribuição dos novos gabinetes será amplamente discutida no Conselho, seguindo o rito: 
 
@@ -173,7 +169,6 @@ A distribuição dos novos gabinetes será amplamente discutida no Conselho, seg
 Em fim, poderemos construir a identidade dos cursos.
 Por exemplo, os 12 gabinetes do departamento DMAT poderão ser agrupados em um mesmo corredor.
 O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e aos técnicos.
-
 
 
 # CAPDA
@@ -192,7 +187,7 @@ totalizando um investimento ao redor de R$ 600.000,00.
 Depois de aprovado pelo CAPDA,
 o nome cadastrado se torna visível para as empresas que tenham por prática investir em pesquisa e desenvolvimento.
 
-> _Ampliar o cadastro CAPDA para os outros departamentos é mais uma proposta deste plano de trabalho!_
+> _Ampliar o cadastro CAPDA para os outros departamentos é mais uma proposta deste plano de trabalho._
 
 
 
@@ -214,7 +209,6 @@ a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 
 # PÓS-GRADUAÇÃO EM ENSINO NO CCT
 
-
 Na entrada do Bloco 3 estará a célula motivadora para discentes e
 professores em exercício considerarem fazer uma pós-graduação em ensino.
 No espaço em azul da planta baixa do Bloco 3,
@@ -230,9 +224,7 @@ e do Doutorado Profissional em Ensino de Ciência e Matemática (RedECIM) --
 um doutorado desenvolvido em rede pela UFRR, UNIR (Rondônia), UNIFAP (Amapá), UFAC (Acre).
 
 
-
 ![Planta baixa do Bloco 3.](/img/plantabaixaB3.jpg)
-
 
 
 Haverá trabalho direcionado para melhorar a qualidade dos Programas de Pós-graduação ligados ao CCT.
@@ -244,7 +236,6 @@ Esse vínculo pode ser estabelecido construindo
 um canal de discussão para analisar e encontrar soluções
 para os altos índices de reprovações das disciplinas de Cálculo --
 um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
-
 
 
 
