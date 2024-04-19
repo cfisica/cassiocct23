@@ -139,7 +139,7 @@ Observem a planta baixa do Bloco 5. Em amarelo, o comprimento dessa faixa é de 
 
 
 
-![Planta baixa do Bloco 5.](cct01.png)
+![Planta baixa do Bloco 5.](img/cct01.png)
 
 
 A próxima tabela mostra uma proposta preliminar para a distribuição dos novos gabinetes.
@@ -231,7 +231,7 @@ um doutorado desenvolvido em rede pela UFRR, UNIR (Rondônia), UNIFAP (Amapá), 
 
 
 
-![Planta baixa do Bloco 3.](cct02.png)
+![Planta baixa do Bloco 3.](img/cct02.png)
 
 
 
