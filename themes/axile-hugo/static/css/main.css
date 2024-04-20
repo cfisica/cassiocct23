@@ -400,7 +400,8 @@ footer img {
 }
 
 .article {
-  margin-left: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
   margin-top: 2rem;
   font-size: 17.5px;
 }
