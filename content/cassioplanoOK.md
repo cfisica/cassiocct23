@@ -46,9 +46,9 @@ Diretor Pro Tempore, com indicação ratificada pelo Conselho, em votação no d
 `CONVIDO VOCÊ A LER MEU PLANO DE TRABALHO PARA O CCT`
 
 
-# ---------
+# ------------------------------------------------------------------------
 # NATUREZA DOS PROBLEMAS E MÉTODO PARA RESOLVÊ-LOS
-# ---------
+# ------------------------------------------------------------------------
 
 O CCT é composto pelos seguintes departamentos: 
 
