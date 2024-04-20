@@ -11,6 +11,8 @@ draft: false
 
 # Número de Votação 23
 
+#
+
 # APRESENTAÇÃO
 
 Sou Professor Titular do Departamento de Física da UFRR.
@@ -46,6 +48,7 @@ Diretor Pro Tempore, com indicação ratificada pelo Conselho, em votação no d
 `CONVIDO VOCÊ A LER MEU PLANO DE TRABALHO PARA O CCT`
 
 
+#
 
 # NATUREZA DOS PROBLEMAS E MÉTODO PARA RESOLVÊ-LOS
 
@@ -87,6 +90,7 @@ Acredito que é hora de estarmos próximos da Administração Superior.
 > _A minha postura será de levar os problemas macros à Administração Superior, e não desistir, até  encontrar soluções de comum acordo_.
 
 
+#
 
 # MODERNIZAÇÃO DA REDE DE COMPUTADORES
 
@@ -115,6 +119,7 @@ Os valores para se comprar novos computadores para todos são elevados. Na maior
 > _Este plano de trabalho estimula dar o melhor destino a cada centavo investido no CCT_.
 
 
+#
 
 # NOVOS GABINETES
 
@@ -172,6 +177,7 @@ Em fim, poderemos construir a identidade dos cursos.
 Por exemplo, os 12 gabinetes do departamento DMAT poderão ser agrupados em um mesmo corredor.
 O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e aos técnicos.
 
+#
 
 # CAPDA
 
@@ -192,6 +198,7 @@ o nome cadastrado se torna visível para as empresas que tenham por prática inv
 > _Ampliar o cadastro CAPDA para os outros departamentos é mais uma proposta deste plano de trabalho._
 
 
+#
 
 # ADEQUAÇÃO DO DEPÓSITO DE RESÍDUOS DA QUÍMICA
 
@@ -208,6 +215,7 @@ a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 > _Vou me empenhar em aprovar um projeto institucional que leve a um depósito de resíduos químicos seguro e funcional_.
 
 
+#
 
 # PÓS-GRADUAÇÃO EM ENSINO NO CCT
 
@@ -240,6 +248,7 @@ para os altos índices de reprovações das disciplinas de Cálculo --
 um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
 
 
+#
 
 # PLANEJAMENTO ORÇAMENTÁRIO
 
@@ -259,6 +268,5 @@ foram incluídos no sistema PGC (Planejamento e Gerenciamento de Contratações)
 Isso inclui a aquisição de projetores para as salas de aula do Bloco 3, entre outros.
 
 > _Faz parte deste plano de trabalho planejar e acompanhar cada centavo investido no CCT_.
-
 
 
