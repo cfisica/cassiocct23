@@ -6,14 +6,12 @@ draft: false
 
 
 # Prof. Dr.
-
 # Cássio Sanguini Sergio
-
 # Número de Votação 23
 
 # ---------
-
 # APRESENTAÇÃO
+# ---------
 
 Sou Professor Titular do Departamento de Física da UFRR.
 Bacharel pela UNICAMP. Mestre e Doutor pela USP.
@@ -49,8 +47,8 @@ Diretor Pro Tempore, com indicação ratificada pelo Conselho, em votação no d
 
 
 # ---------
-
 # NATUREZA DOS PROBLEMAS E MÉTODO PARA RESOLVÊ-LOS
+# ---------
 
 O CCT é composto pelos seguintes departamentos: 
 
@@ -91,8 +89,8 @@ Acredito que é hora de estarmos próximos da Administração Superior.
 
 
 # ---------
-
 # MODERNIZAÇÃO DA REDE DE COMPUTADORES
+# ---------
 
 A missão do DCC é: Tornar acessível o conhecimento científico-tecnológico em computação de que a sociedade precisa, por meio de pesquisa e formação de profissionais.
 
@@ -120,8 +118,8 @@ Os valores para se comprar novos computadores para todos são elevados. Na maior
 
 
 # ---------
-
 # NOVOS GABINETES
+# ---------
 
 Vamos voltar a falar sobre a falta de gabinetes, algo que está afetando um grande número de professores e técnicos. 
 
@@ -179,8 +177,8 @@ O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e ao
 
 
 # ---------
-
 # CAPDA
+# ---------
 
 O CAPDA é o Comitê das Atividades de Pesquisa e Desenvolvimento na Amazônia. 
 Em 2021, ele ampliou sua participação para o estado de Roraima. 
@@ -200,8 +198,8 @@ o nome cadastrado se torna visível para as empresas que tenham por prática inv
 
 
 # ---------
-
 # ADEQUAÇÃO DO DEPÓSITO DE RESÍDUOS DA QUÍMICA
+# ---------
 
 As aulas de química geram muito resíduo químico.
 O material necessita de um lugar seguro para ser estocado, antes do descarte final. 
@@ -217,8 +215,8 @@ a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 
 
 # ---------
-
 # PÓS-GRADUAÇÃO EM ENSINO NO CCT
+# ---------
 
 Na entrada do Bloco 3 estará a célula motivadora para discentes e
 professores em exercício considerarem fazer uma pós-graduação em ensino.
@@ -250,8 +248,8 @@ um problema complexo e amargo mas que necessita estar na mesa de discussão do D
 
 
 # ---------
-
 # PLANEJAMENTO ORÇAMENTÁRIO
+# ---------
 
 Hoje o CCT vive uma calmaria com respeito à distribuição orçamentária departamental.
 Foi feito um trabalho para que houvesse harmonia entre 
