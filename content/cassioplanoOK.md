@@ -46,9 +46,9 @@ Diretor Pro Tempore, com indicação ratificada pelo Conselho, em votação no d
 `CONVIDO VOCÊ A LER MEU PLANO DE TRABALHO PARA O CCT`
 
 
-# ---------------------------------------
+* * * * *
 # NATUREZA DOS PROBLEMAS E MÉTODO PARA RESOLVÊ-LOS
-# ---------------------------------------
+* * * * *
 
 O CCT é composto pelos seguintes departamentos: 
 
@@ -88,9 +88,9 @@ Acredito que é hora de estarmos próximos da Administração Superior.
 > _A minha postura será de levar os problemas macros à Administração Superior, e não desistir, até  encontrar soluções de comum acordo_.
 
 
-# ---------------------------------------
+* * * * *
 # MODERNIZAÇÃO DA REDE DE COMPUTADORES
-# ---------------------------------------
+* * * * *
 
 A missão do DCC é: Tornar acessível o conhecimento científico-tecnológico em computação de que a sociedade precisa, por meio de pesquisa e formação de profissionais.
 
@@ -117,9 +117,9 @@ Os valores para se comprar novos computadores para todos são elevados. Na maior
 > _Este plano de trabalho estimula dar o melhor destino a cada centavo investido no CCT_.
 
 
-# ---------------------------------------
+* * * * *
 # NOVOS GABINETES
-# ---------------------------------------
+* * * * *
 
 Vamos voltar a falar sobre a falta de gabinetes, algo que está afetando um grande número de professores e técnicos. 
 
@@ -176,9 +176,9 @@ Por exemplo, os 12 gabinetes do departamento DMAT poderão ser agrupados em um m
 O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e aos técnicos.
 
 
-# ---------------------------------------
+* * * * *
 # CAPDA
-# ---------------------------------------
+* * * * *
 
 O CAPDA é o Comitê das Atividades de Pesquisa e Desenvolvimento na Amazônia. 
 Em 2021, ele ampliou sua participação para o estado de Roraima. 
@@ -197,9 +197,9 @@ o nome cadastrado se torna visível para as empresas que tenham por prática inv
 > _Ampliar o cadastro CAPDA para os outros departamentos é mais uma proposta deste plano de trabalho._
 
 
-# ---------------------------------------
+* * * * *
 # ADEQUAÇÃO DO DEPÓSITO DE RESÍDUOS DA QUÍMICA
-# ---------------------------------------
+* * * * *
 
 As aulas de química geram muito resíduo químico.
 O material necessita de um lugar seguro para ser estocado, antes do descarte final. 
@@ -214,9 +214,9 @@ a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 > _Vou me empenhar em aprovar um projeto institucional que leve a um depósito de resíduos químicos seguro e funcional_.
 
 
-# ---------------------------------------
+* * * * *
 # PÓS-GRADUAÇÃO EM ENSINO NO CCT
-# ---------------------------------------
+* * * * *
 
 Na entrada do Bloco 3 estará a célula motivadora para discentes e
 professores em exercício considerarem fazer uma pós-graduação em ensino.
@@ -247,9 +247,9 @@ para os altos índices de reprovações das disciplinas de Cálculo --
 um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
 
 
-# ---------------------------------------
+* * * * *
 # PLANEJAMENTO ORÇAMENTÁRIO
-# ---------------------------------------
+* * * * *
 
 Hoje o CCT vive uma calmaria com respeito à distribuição orçamentária departamental.
 Foi feito um trabalho para que houvesse harmonia entre 
