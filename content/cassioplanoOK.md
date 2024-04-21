@@ -9,9 +9,9 @@ draft: false
 # Cássio Sanguini Sergio
 # Número de Votação 23
 
-<hr style="width:100%;text-align:left;margin-left:0">
+* * * * *
 # APRESENTAÇÃO
-<hr style="width:100%;text-align:left;margin-left:0">
+* * * * *
 
 Sou Professor Titular do Departamento de Física da UFRR.
 Bacharel pela UNICAMP. Mestre e Doutor pela USP.
