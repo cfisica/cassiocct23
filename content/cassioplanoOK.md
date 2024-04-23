@@ -60,7 +60,7 @@ O CCT é composto pelos seguintes departamentos:
 | DMAT  | Departamento de Matemática               |
 | DEE   | Departamento de Engenharia Elétrica      |
 | DEEC  | Departamento de Engenharia Civil         |
-| DCC   | Departamento de de Ciência da Computação |
+| DCC   | Departamento de Ciência da Computação    |
 | DAU   | Departamento de Arquitetura e Urbanismo  |
 
 Há dois tipos de problemas.
@@ -97,11 +97,11 @@ A missão do DCC é: Tornar acessível o conhecimento científico-tecnológico e
 
 A internet das coisas, a inteligência artificial, entre outras tecnologias da indústria 4.0, estão desconstruindo e reconstruindo valores, tornando o curso de Ciência da Computação cada vez mais atraente à sociedade.
 
-> _Os laboratório do DCC estão com computadores defasados e sucateados, com cerca de 15 anos de uso_.
+> _Os laboratórios do DCC estão com computadores defasados e sucateados, com cerca de 15 anos de uso_.
 
 Este Problema Macro só será resolvido com um projeto institucional. Por exemplo, um computador montado com a 12ª geração do Intel Core i7, 512GB SSD, 16GB DDR4 RAM e Monitor, está na faixa dos R$ 6.000,00. Um laboratório, com capacidade para 30 alunos, vai ficar na casa dos R$ 180.000,00. Para dar o pontapé inicial, o Documento de Formalização de Demanda (DFD) nº 225/2024 foi cadastrado no site Compras.gov.br. 
 
-Esclarecimento: O DFD é o elemento obrigatório que inaugura o planejamento administrativo. Os próximos passos são: o Estudo Técnico Preliminar (ETP), que apresenta estudos para buscar a melhor solução a ser adquirida, e, em seguida, o Termo de Referência (TR), que apresenta o detalhamento do que será contratado, as obrigações, as penalidades, bem como os prazos de atendimento, entre outros – que serão elaborados pelo DCC.
+Esclarecimento: O DFD é o elemento obrigatório que inaugura o planejamento administrativo. Os próximos passos são: o Estudo Técnico Preliminar (ETP), que apresenta estudos para buscar a melhor solução a ser adquirida, e, em seguida, o Termo de Referência (TR), que apresenta o detalhamento do que será contratado, as obrigações, as penalidades, bem como os prazos de atendimento, entre outros – passos que serão da competência do DCC.
 
 Vamos trabalhar para levar a proposta de modernização dos laboratórios do DCC já para o segundo semestre de 2024.
 Em contra partida, poderemos reformar os computadores antigos, trocando os HDs por SSDs,
