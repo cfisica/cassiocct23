@@ -1,6 +1,6 @@
 ---
 title: Plano de Trabalho para o CCT
-date: 2024-04-19
+date: 2024-04-25
 thumbnail: 'img/eu23.png'
 draft: false
 ---
