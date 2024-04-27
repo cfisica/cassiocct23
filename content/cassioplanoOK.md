@@ -103,9 +103,7 @@ Este Problema Macro só será resolvido com um projeto institucional. Por exempl
 
 Esclarecimento: O DFD é o elemento obrigatório que inaugura o planejamento administrativo. Os próximos passos são: o Estudo Técnico Preliminar (ETP), que apresenta estudos para buscar a melhor solução a ser adquirida, e, em seguida, o Termo de Referência (TR), que apresenta o detalhamento do que será contratado, as obrigações, as penalidades, bem como os prazos de atendimento, entre outros – passos que serão da competência do DCC.
 
-Vamos trabalhar para levar a proposta de modernização dos laboratórios do DCC já para o segundo semestre de 2024.
-Em contra partida, poderemos reformar os computadores antigos, trocando os HDs por SSDs,
-e liberando os computadores reformados para as Salas de Estudos dos Alunos. 
+Vamos trabalhar para levar a proposta de modernização dos laboratórios do DCC já para o segundo semestre de 2024. Em contra partida, poderemos reformar os computadores antigos, trocando os HDs por SSDs, e liberando os computadores reformados para as Salas de Estudos dos Alunos.
 
 > _Faz parte deste plano de trabalho oferecer melhores condições para os discentes do Centro desenvolverem suas atividades de aprendizagem_.
 
@@ -157,8 +155,7 @@ A próxima tabela mostra uma proposta preliminar para a distribuição dos novos
 | DAU          | 5                     | 2                             | 7                  | 14                      |
 | **TOTAL**    | **31**                | **20**                        | **51**             | **102**                 |
 
-Alguns técnicos preferem ficar nos laboratórios.  Já outros desejam ter um local adicional de apoio. 
-Esta demanda poderá ser resolvida, pois, pelas contas, os 04 gabinetes livres podem ser disponibilizados para os técnicos. 
+Alguns técnicos preferem ficar nos laboratórios.  Já outros desejam ter um local adicional de apoio. Esta demanda poderá ser resolvida, pois, pelas contas, os 04 gabinetes livres podem ser disponibilizados para os técnicos. 
 
 > _Faz parte deste plano de trabalho oferecer melhores condições para os técnicos do Centro exercerem suas atividades profissionais_.
 
@@ -173,8 +170,7 @@ A distribuição dos novos gabinetes será amplamente discutida no Conselho, seg
 4. Ampla divulgação do resultado final.
 
 Em fim, poderemos construir a identidade dos cursos.
-Por exemplo, os 12 gabinetes do departamento DMAT poderão ser agrupados em um mesmo corredor.
-O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e aos técnicos.
+Por exemplo, os 12 gabinetes do departamento DMAT poderão ser agrupados em um mesmo corredor. O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e aos técnicos.
 
 
 * * * * *
@@ -184,7 +180,7 @@ O mesmo pode ser feito com os gabinetes destinados aos outros departamentos e ao
 O CAPDA é o Comitê das Atividades de Pesquisa e Desenvolvimento na Amazônia. 
 Em 2021, ele ampliou sua participação para o estado de Roraima. Depois da aprovação do cadastro no CAPDA, o nome cadastrado se torna visível para as empresas que tenham por prática investir em pesquisa e desenvolvimento. Em primeiro lugar, a empresa contata o CITS – Centro Internacional de Tecnologia de Software do Amazonas, para ser investidor. A empresa escolhe o projeto que vai desenvolver. A banca avaliadora do CITS faz a análise e, após a aprovação, o CITS faz a liberação e o repasse dos recursos, além do acompanhamento e monitoramento da execução.
 
-    Os departamentos DEE e DCC já estão com projetos com parcerias de empresas 
+Os departamentos DEE e DCC já estão com projetos com parcerias de empresas 
 que fazem jus a benefícios fiscais previstos na Lei de Informática. A empresa FOXCONN, a maior fabricante de produtos 3C (Computadores, Comunicações e Consumos eletrônicos) do mundo, é uma que investe no CCT. Os projetos envolvem realizar capacitação para centenas de estudantes de todo o país, entre outras ações. Há pagamento de bolsas cujos valores são definidos durante o planejamento do projeto. Por exemplo, um dos projetos foi estipulado que o coordenador recebesse bolsa no valor de R$ 6.000,00/mês; os professores R$ 4.500,00; também há pagamento de bolsas para o apoio técnico e os analistas de projetos. Além disso, há investimentos para reforma de salas, adquisição de computadores e mobiliário, entre outros. A soma dos investimentos via CAPDA atinge cifras ao redor de R$ 600.000,00. 
 
 > _Ampliar o cadastro CAPDA para os outros departamentos é mais uma proposta deste plano de trabalho._
@@ -195,14 +191,8 @@ que fazem jus a benefícios fiscais previstos na Lei de Informática. A empresa 
 * * * * *
 
 As aulas de química geram muito resíduo químico.
-O material necessita de um lugar seguro para ser estocado, antes do descarte final. 
-Nas proximidades do Bloco 3,
-há um prédio cuja finalidade seria ser o depósito de resíduos do departamento DQUI,
-porém, ainda não está funcional.
-O deposito de resíduos deve conter bancadas com espessura, altura
-e profundidade de acordo com normas de segurança,
-a ventilação das paredes devem ficar perto do teto,
-a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
+O material necessita de um lugar seguro para ser estocado, antes do descarte final. Nas proximidades do Bloco 3, há um prédio cuja finalidade seria ser o depósito de resíduos do departamento DQUI, porém, ainda não está funcional.
+O deposito de resíduos deve conter bancadas com espessura, altura e profundidade de acordo com normas de segurança, a ventilação das paredes devem ficar perto do teto, a porta de acesso deve ser de ferro e a entrada atual deve ser reformada.
 
 > _Vou me empenhar em aprovar um projeto institucional que leve a um depósito de resíduos químicos seguro e funcional_.
 
@@ -230,25 +220,18 @@ um doutorado desenvolvido em rede pela UFRR, UNIR (Rondônia), UNIFAP (Amapá), 
 
 
 Haverá trabalho direcionado para melhorar a qualidade dos Programas de Pós-graduação ligados ao CCT.
-A ideia é que o Diretor tenha um acento permanente nas reuniões de planejamento da PRPPG,
-para discutir ações específicas para o Centro.
-Com uma pós-graduação forte, 
-estaremos estimilando o vínculo dos programas de pós-graduação com a graduação.
-Esse vínculo pode ser estabelecido construindo
-um canal de discussão para analisar e encontrar soluções
-para os altos índices de reprovações das disciplinas de Cálculo --
-um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
+A ideia é que o Diretor tenha um acento permanente nas reuniões de planejamento da PRPPG, para discutir ações específicas para o Centro.
+Com uma pós-graduação forte, estaremos estimilando o vínculo dos programas de pós-graduação com a graduação. Esse vínculo pode ser estabelecido construindo
+um canal de discussão para analisar e encontrar soluções para os altos índices de reprovações das disciplinas de Cálculo -- um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
 
 
 * * * * *
 # PLANEJAMENTO ORÇAMENTÁRIO
 * * * * *
 
-Hoje o CCT vive uma calmaria com respeito à distribuição orçamentária departamental.
-Foi feito um trabalho para que houvesse harmonia entre 
+Hoje o CCT vive uma calmaria com respeito à distribuição orçamentária departamental. Foi feito um trabalho para que houvesse harmonia entre 
 a Comissão de Orçamento do CCT e a Diretoria de Orçamento da UFRR.
-Por isso, os valores empenhados já estão sendo utilizados
-para a compra de passagens, pagamento de diárias e aquisição de material permanente.
+Por isso, os valores empenhados já estão sendo utilizados para a compra de passagens, pagamento de diárias e aquisição de material permanente.
 
 Uma verificação rigorosa, detalhada e transparente das contas é realizada,
 com a criação do site [CCT investimentos](https://cct24.netlify.app/).
@@ -260,5 +243,4 @@ foram incluídos no sistema PGC (Planejamento e Gerenciamento de Contratações)
 Isso inclui a aquisição de projetores para as salas de aula do Bloco 3, entre outros.
 
 > _Faz parte deste plano de trabalho planejar e acompanhar cada centavo investido no CCT_.
-
 
