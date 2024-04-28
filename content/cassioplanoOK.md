@@ -83,7 +83,7 @@ Nesse ponto, entra a sua sensibilidade: A sua escolha para Diretor do CCT deve s
 > _Meu candidato é forte na articulação com a Reitoria!_
 
 Entendo que a arte da direção envolve períodos de embate com períodos de conciliação. 
-O diretor deve levar o CCT em uma rota de colisão com a Reitoria? 
+O Diretor deve levar o CCT em uma rota de colisão com a Reitoria? 
 Acredito que é hora de estarmos próximos da Administração Superior. 
 
 > _A minha postura será de levar os problemas macros à Administração Superior, e não desistir, até  encontrar soluções de comum acordo_.
@@ -157,7 +157,7 @@ A próxima tabela mostra uma proposta preliminar para a distribuição dos novos
 
 Alguns técnicos preferem ficar nos laboratórios.  Já outros desejam ter um local adicional de apoio. Esta demanda poderá ser resolvida, pois, pelas contas, os 04 gabinetes livres podem ser disponibilizados para os técnicos. 
 
-> _Faz parte deste plano de trabalho oferecer melhores condições para os técnicos do Centro exercerem suas atividades profissionais_.
+> _Faz parte deste plano de trabalho oferecer melhores condições para os Técnicos do Centro exercerem suas atividades profissionais_.
 
 A distribuição dos novos gabinetes será amplamente discutida no Conselho, seguindo o rito: 
 
@@ -181,7 +181,7 @@ O CAPDA é o Comitê das Atividades de Pesquisa e Desenvolvimento na Amazônia.
 Em 2021, ele ampliou sua participação para o estado de Roraima. Depois da aprovação do cadastro no CAPDA, o nome cadastrado se torna visível para as empresas que tenham por prática investir em pesquisa e desenvolvimento. Em primeiro lugar, a empresa contata o CITS – Centro Internacional de Tecnologia de Software do Amazonas, para ser investidor. A empresa escolhe o projeto que vai desenvolver. A banca avaliadora do CITS faz a análise e, após a aprovação, o CITS faz a liberação e o repasse dos recursos, além do acompanhamento e monitoramento da execução.
 
 Os departamentos DEE e DCC já estão com projetos com parcerias de empresas 
-que fazem jus a benefícios fiscais previstos na Lei de Informática. A empresa FOXCONN, a maior fabricante de produtos 3C (Computadores, Comunicações e Consumos eletrônicos) do mundo, é uma que investe no CCT. Os projetos envolvem realizar capacitação para centenas de estudantes de todo o país, entre outras ações. Há pagamento de bolsas cujos valores são definidos durante o planejamento do projeto. Por exemplo, um dos projetos foi estipulado que o coordenador recebesse bolsa no valor de R$ 6.000,00/mês; os professores R$ 4.500,00; também há pagamento de bolsas para o apoio técnico e os analistas de projetos. Além disso, há investimentos para reforma de salas, adquisição de computadores e mobiliário, entre outros. A soma dos investimentos via CAPDA atinge cifras ao redor de R$ 600.000,00. 
+que fazem jus a benefícios fiscais previstos na Lei de Informática. A empresa FOXCONN, a maior fabricante de produtos 3C (Computadores, Comunicações e Consumos eletrônicos) do mundo, é uma que investe no CCT. Os projetos envolvem realizar capacitação para centenas de estudantes de todo o país, entre outras ações. Há pagamento de bolsas cujos valores são definidos durante o planejamento do projeto. Por exemplo, em um dos projetos ficou acordaddo que o coordenador recebesse bolsa no valor de R$ 6.000,00/mês e os professores da capacitação R$ 4.500,00; também há pagamento de bolsas para o apoio técnico e os analistas de projetos. Além disso, há investimentos para reforma de salas, adquisição de computadores e mobiliário, entre outros. A soma dos investimentos via CAPDA atinge cifras superiores à R$ 600.000,00. 
 
 > _Ampliar o cadastro CAPDA para os outros departamentos é mais uma proposta deste plano de trabalho._
 
@@ -231,12 +231,12 @@ um canal de discussão para analisar e encontrar soluções para os altos índic
 
 Hoje o CCT vive uma calmaria com respeito à distribuição orçamentária departamental. Foi feito um trabalho para que houvesse harmonia entre 
 a Comissão de Orçamento do CCT e a Diretoria de Orçamento da UFRR.
-Por isso, os valores empenhados já estão sendo utilizados para a compra de passagens, pagamento de diárias e aquisição de material permanente.
+Por isso, os valores empenhados já estão sendo utilizados para a compra de passagens e pagamentos de diárias e aquisição de material consumo e permanente.
 
 Uma verificação rigorosa, detalhada e transparente das contas é realizada,
 com a criação do site [CCT investimentos](https://cct24.netlify.app/).
 
-Todo planejamento necessário está sendo realizado.
+Todo planejamento necessário para o próximo ano está foi realizado.
 Os DFDs (Documento de Formalização de Demanda)
 de que o Centro necessita para o exercício de 2025
 foram incluídos no sistema PGC (Planejamento e Gerenciamento de Contratações).
