@@ -236,7 +236,7 @@ Por isso, os valores empenhados já estão sendo utilizados para a compra de pas
 Uma verificação rigorosa, detalhada e transparente das contas é realizada,
 com a criação do site [CCT investimentos](https://cct24.netlify.app/).
 
-Todo planejamento necessário para o próximo ano está foi realizado.
+Todo planejamento necessário para o próximo ano foi realizado.
 Os DFDs (Documento de Formalização de Demanda)
 de que o Centro necessita para o exercício de 2025
 foram incluídos no sistema PGC (Planejamento e Gerenciamento de Contratações).
