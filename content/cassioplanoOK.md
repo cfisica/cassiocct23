@@ -1,5 +1,5 @@
 ---
-title: Plano de Trabalho: A chapa CRESCIMENTO CONTÍNUO trabalha para diagnosticar e encontrar soluções para os principais problemas do CCT: Novos Gabinetes, Modernização da Rede de Computadores, Recursos CAPDA, Somos Apaixonados por Cálculo, entre outros, serão tratados com seriedade e transparência. 
+title: Plano de Trabalho para o CCT
 date: 2024-04-25
 thumbnail: 'img/eu23.png'
 draft: false
@@ -10,6 +10,8 @@ draft: false
 # Cássio Sanguini Sergio
 # Dia da Votação 07/05/2024
 # Número de Votação 23
+## A chapa CRESCIMENTO CONTÍNUO trabalha para diagnosticar e encontrar soluções para os principais problemas do CCT: Novos Gabinetes, Modernização da Rede de Computadores, Recursos CAPDA, Somos Apaixonados por Cálculo, entre outros, serão tratados com seriedade e transparência.
+
 
 * * * * *
 # APRESENTAÇÃO
@@ -45,7 +47,7 @@ Diretor Pro Tempore, com indicação ratificada pelo Conselho, em votação no d
 > _Durante meus 18 anos de UFRR, sempre estive ativo em atividades de Pesquisa, Ensino, Extensão e Administração_.
 
 
-`CONVIDO VOCÊ A LER MEU PLANO DE TRABALHO PARA O CCT`
+`CONVIDO VOCÊ A LER MEU PLANO DE TRABALHO.`
 
 
 * * * * *
