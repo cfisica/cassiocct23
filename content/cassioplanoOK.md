@@ -1,5 +1,5 @@
 ---
-title: Plano de Trabalho para o CCT
+title: Plano de Trabalho: A chapa CRESCIMENTO CONTÍNUO trabalha para diagnosticar e encontrar soluções para os principais problemas do CCT: Novos Gabinetes, Modernização da Rede de Computadores, Recursos CAPDA, Somos Apaixonados por Cálculo, entre outros, serão tratados com seriedade e transparência. 
 date: 2024-04-25
 thumbnail: 'img/eu23.png'
 draft: false
