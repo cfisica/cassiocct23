@@ -222,8 +222,8 @@ um doutorado desenvolvido em rede pela UFRR, UNIR (Rondônia), UNIFAP (Amapá), 
 
 Haverá trabalho direcionado para melhorar a qualidade dos Programas de Pós-graduação ligados ao CCT.
 A ideia é que o Diretor tenha um acento permanente nas reuniões de planejamento da PRPPG, para discutir ações específicas para o Centro.
-Com uma pós-graduação forte, estaremos estimilando o vínculo dos programas de pós-graduação com a graduação. Esse vínculo pode ser estabelecido construindo
-um canal de discussão para analisar e encontrar soluções para os altos índices de reprovações das disciplinas de Cálculo -- um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
+Com uma pós-graduação forte, estimilaremos o vínculo dos programas de pós-graduação com a graduação. Esse vínculo pode ser estabelecido construindo
+um canal de discussão para analisar e apontar soluções para os altos índices de reprovações das disciplinas de Cálculo -- um problema complexo e amargo mas que necessita estar na mesa de discussão do Diretor.
 
 
 * * * * *
