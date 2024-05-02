@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-# Prof. Dr.
+## Prof. Dr.
 # Cássio Sanguini Sergio
 # Dia da Votação 07/05/2024
 # Número de Votação 23
