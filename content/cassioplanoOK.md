@@ -10,7 +10,7 @@ draft: false
 # Cássio Sanguini Sergio
 ## Dia da Votação 07/05/2024
 ## Votação pelo [SIGEleição](https://sigeleicao.ufrr.br/sigeleicao/)
-# Número de Votação $${\color{red}23}$$
+# Número de Votação ${\color{red}23}$
 ## A chapa CRESCIMENTO CONTÍNUO trabalha para diagnosticar e encontrar soluções para os principais problemas do CCT: Novos Gabinetes, Modernização da Rede de Computadores, Recursos CAPDA, Somos Apaixonados por Cálculo, entre outros, serão tratados com seriedade e transparência.
 
 
